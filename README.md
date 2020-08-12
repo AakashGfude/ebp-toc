@@ -1,3 +1,4 @@
+
 # EBP-TOC
 
 Example toc structure and related files to test html and latex outputs.
@@ -7,5 +8,6 @@ Example toc structure and related files to test html and latex outputs.
 To build a test set run
 
 ```bash
-jb build . --toc=<your_toc_file_name>.yml
+jb build src/ --toc=tocs/<toc_file_name>.yml
 ```
+
