@@ -1,11 +1,13 @@
-# ebp-toc
+
+# EBP-TOC
 
 Example toc structure and related files to test html and latex outputs.
 
-## Workflow
+## Building
 
-**1) To build**
+To build a test set run
 
 ```bash
 jb build src/ --toc=tocs/<toc_file_name>.yml
 ```
+
