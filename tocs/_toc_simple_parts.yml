@@ -1,0 +1,8 @@
+- file: index
+- part: A section
+  chapters:
+  - file: subfolder/index
+- part: Another section
+  chapters:
+  - file: content1
+  - file: content2
